@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+header {
+    position: relative;
+}
+
+.parallax-window {
+    padding-top: 64px;
+    min-height: 384px;
+    background: transparent;
+}
+
+#logo {
+    background-image: url("/assets/images/logo.jpg");  
+    width: 320px;
+    height: 320px;  
+    margin: 0 auto 64px;
+    border-radius: 16px;
+    opacity: 0.8;
+}
